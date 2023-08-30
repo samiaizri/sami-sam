@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiaizri
+- 👋 Hi, I’m @samisam
 - 👀 I’m interested in web development and emerging technologies.
 - 🌱 Currently, I'm diving into the fundamentals of artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects related to environmental sustainability.
